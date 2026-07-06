@@ -131,8 +131,8 @@
   // (e.g. '/api/ask') that holds the real API key server-side and forwards
   // { question } -> { answer }, and set USE_DIRECT_ANTHROPIC to false.
   const USE_DIRECT_ANTHROPIC = true;
-  const ASK_AI_ENDPOINT = '/api/ask'; // used only when USE_DIRECT_ANTHROPIC is false
-
+  const ASK_AI_ENDPOINT =
+  'https://ecovision-1-fep2.onrender.com/api/v1/ask';
   // ---- Live weather grounding (Open-Meteo, free & keyless) ----
   // Anand Vihar, Delhi NCR — matches the zone this dashboard tracks.
   const WEATHER_LAT = 28.6469, WEATHER_LON = 77.3153;
