@@ -130,7 +130,7 @@
   // In that case, point ASK_AI_ENDPOINT at your own serverless function
   // (e.g. '/api/ask') that holds the real API key server-side and forwards
   // { question } -> { answer }, and set USE_DIRECT_ANTHROPIC to false.
-  const USE_DIRECT_ANTHROPIC = true;
+ const USE_DIRECT_ANTHROPIC = false;
   const ASK_AI_ENDPOINT =
   'https://ecovision-1-fep2.onrender.com/api/v1/ask';
   // ---- Live weather grounding (Open-Meteo, free & keyless) ----
