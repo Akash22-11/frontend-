@@ -236,20 +236,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots here
-
-```
-Dashboard Screenshot
-
-Pollution Detection
-
-AI Chatbot
-
-Weather Page
-```
-
 ---
 
 # 🌍 Future Enhancements
