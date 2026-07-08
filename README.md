@@ -203,7 +203,6 @@ OPENWEATHER_API_KEY=your_api_key
 ---
 
 ## Run Backend
-
 ```bash
 uvicorn app.main:app --reload
 ```
