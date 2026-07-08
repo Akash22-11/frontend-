@@ -111,6 +111,7 @@ The platform combines **Computer Vision**, **Machine Learning**, **Weather APIs*
 
 ---
 
+
 # 🏗 Project Architecture
 
 ```
