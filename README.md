@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 EcoVision AI
+# 🌍 vaayo dristi
 ### *AI-Powered Environmental Monitoring & Pollution Detection Platform*
 
 <p align="center">
